@@ -1,8 +1,7 @@
-## Warning
 
 ## Demo
 👇👇👇<br/>
-<a href="https://todo-sandy-xi.vercel.app/">WebVaVe ToDo</a><br/>
+<a href="https://65006e8fcef1e175fb1455a4--statuesque-biscotti-92306c.netlify.app/">WebVaVe ToDo</a><br/>
 👆👆👆
 # ToDo
 To-do list website made with React JS, Tailwind CSS, TypeScript and more.
@@ -27,43 +26,9 @@ Light mode:
 - Today's tasks are shown in the user section and in notifications.
 - Tasks, directories and DarkMode data are saved to localStorage.
 
-## Goal
-The project mainly aimed to put into practice knowledge of TypeScript, Tailwind, UseApi and React Js.
-
-## Tools used
-- React JS
-- TypeScript
-- Tailwind CSS
-- React Router DOM
-- HTML
-- Api
-- Weather
-- Game
-- Figma
 
 
 
-## How to Run
 
-if Need run on your machine:
-
-Clone project
-```
-git clone https://github.com/ariyan-emi/ToDo.git
-```
-go to project
-```
-cd ToDo-main
-```
-install npm
-```
-npm install
-```
-start project
-```
-npm start
-```
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.😊
  
 
