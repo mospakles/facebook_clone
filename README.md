@@ -1,7 +1,7 @@
 
 ## Demo
 👇👇👇<br/>
-<a href="https://65006e8fcef1e175fb1455a4--statuesque-biscotti-92306c.netlify.app/">WebVaVe ToDo</a><br/>
+<a href="https://65006e8fcef1e175fb1455a4--statuesque-biscotti-92306c.netlify.app/">ToDo App</a><br/>
 👆👆👆
 # ToDo
 To-do list website made with React JS, Tailwind CSS, TypeScript and more.
